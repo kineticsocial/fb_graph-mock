@@ -1,6 +1,7 @@
 {
   "id": "6003266501234",
   "campaign_id": 6003266501234,
+  "campaign_group_id": 6003266501233,
   "account_id": 12345566,
   "name": "Test Ad Campaign",
   "start_time": "2011-07-01T12:00:00+00:00",
