@@ -17,5 +17,8 @@ test/tmp
 test/version_tmp
 tmp
 
+## MAC OS
+.DS_Store
+
 ## RVM
 .rvmrc
