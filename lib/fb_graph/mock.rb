@@ -81,7 +81,7 @@ module FbGraph
     end
 
     def response_file_for(response_path)
-      _response_file_path_ = if File.exist? response_path
+      _response_file_path_ = if File.exists? response_path
         response_path
       else
         File.join(

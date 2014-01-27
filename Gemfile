@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-group :test do
+group :development do
   gem 'fb_graph', :git => 'git@github.com:kineticsocial/fb_graph.git'
 end
 
