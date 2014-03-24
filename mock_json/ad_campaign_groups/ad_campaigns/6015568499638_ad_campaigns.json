@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "id": "6015568577438",
+            "name": "(15423) Test New Structure 1"
+        },
+        {
+            "id": "6015568589238",
+            "name": "(15424) Test New Structure 2"
+        }
+    ],
+    "paging": {
+        "next": "https://graph.facebook.com/6015568499638/adcampaigns?fields=name&access_token=CAAHklGckbfYBAHICIZC8Q3s797gzpzexi3OD8DFu3xoD2ZBQ1Qu8umNYbrtrHhVhbOFjxtV5OZAMx94aGZBfIeZCWzYXHsaMo9U25ZCulYSKE6HcBW61xD9LYD7TbD4ZBkY2wezWdgylZBM5tJOgjKTHKyuf2AZAmaOKjvoJZBZCYQ4qtshgQQZCAMg6&limit=25&offset=25&__after_id=6015568589238"
+    }
+}

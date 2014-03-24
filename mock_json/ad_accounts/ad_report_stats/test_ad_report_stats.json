@@ -1,0 +1,12 @@
+{
+  "start_time":null,
+  "end_time":"2011-09-08T18:49:53+0000",
+  "data": [{
+    "account_id":"12345566"    
+  }, {
+    "account_id":"12345566"
+  }],
+  "count":2,
+  "limit":100,
+  "offset":0
+}
