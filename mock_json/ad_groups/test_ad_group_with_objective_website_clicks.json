@@ -1,0 +1,22 @@
+{
+  "objective": "WEBSITE_CLICKS",
+  "tracking_and_conversion_with_defaults": {
+    "default_conversion": [
+    ],
+    "custom_conversion": [
+    ],
+    "default_tracking": [
+      {
+        "action.type": [
+          "link_click"
+        ],
+        "object": [
+          "10150479290356580"
+        ]
+      }
+    ],
+    "custom_tracking": [
+    ]
+  },
+  "id": "6003590469668"
+}

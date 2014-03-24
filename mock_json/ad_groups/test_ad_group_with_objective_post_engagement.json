@@ -1,0 +1,22 @@
+{
+  "objective": "POST_ENGAGEMENT",
+  "tracking_and_conversion_with_defaults": {
+    "default_conversion": [
+    ],
+    "custom_conversion": [
+    ],
+    "default_tracking": [
+      {
+        "action.type": [
+          "page_engagement"
+        ],
+        "page": [
+          686960707919123
+        ]
+      }
+    ],
+    "custom_tracking": [
+    ]
+  },
+  "id": "6003590469668"
+}
