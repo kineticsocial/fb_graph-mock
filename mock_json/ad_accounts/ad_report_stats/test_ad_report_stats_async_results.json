@@ -17,6 +17,6 @@
   "limit":50,
   "offset":0,
   "paging":{
-    "next":"https:\/\/graph.facebook.com\/act_2468813519990\/reportstats?date_preset=last_week&data_columns=\u00255B\u002522adgroup_id\u002522\u00252C\u002522actions\u002522\u00252C\u002522spend\u002522\u00255D&access_token=access_token&offset=50"
+    "next":"https:\/\/graph.facebook.com\/act_2468813519990\/reportstats?report_run_id=6018494456931&access_token=access_token&offset=50"
   }
 }
